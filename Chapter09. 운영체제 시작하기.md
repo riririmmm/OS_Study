@@ -16,12 +16,13 @@
 
 - 1번
     
-    ![image.png](attachment:5eb64d8a-cb14-4b5d-a946-89dc2d2fd447:image.png)
+    <img width="70%" src="https://github.com/user-attachments/assets/4a62dfd4-9d5d-442e-90f8-496089186d0c" />
     
     - 정답: 자원
 - 2번
     
-    ![image.png](attachment:fc1f311e-f6a2-4039-b97d-459f1c986b7a:image.png)
+    <img width="70%" src="https://github.com/user-attachments/assets/385efc61-3a2a-4de1-bf5b-2e7507ac2c9d" />
+
     
     - 정답: 2번
 
@@ -53,19 +54,17 @@
     - ① 하드 디스크에 데이터를 저장하는 시스템 호출 발생 → 커널 모드로 전환
     - ② 운영체제 내의 ‘하드 디스크에 데이터를 저장하는 코드’ 살행 → 하드 디스크에 접근 가능
     - ③ 하드 디스크에 접근 종료 → 다시 사용자 모드로 복귀 & 마저 실행
-    
-    ![image.png](https://github.com/user-attachments/assets/7555bacc-db0e-488c-9867-c10180193b4a)
-    
+    <img width="70%" src="https://github.com/user-attachments/assets/04af5426-807f-4b2a-8405-bf590201f190" />
 - 운영체제의 핵심 서비스
-    - [프로세스 관리](https://www.notion.so/Ch09-22a7dbeb5fec8063b621c04ee5d34949?pvs=21)
-    - [자원 접근 및 할당](https://www.notion.so/Ch09-22a7dbeb5fec8063b621c04ee5d34949?pvs=21)
-    - [파일 시스템 관리](https://www.notion.so/Ch09-22a7dbeb5fec8063b621c04ee5d34949?pvs=21)
-- 프로세스 관리
+    - 프로세스 관리
+    - 자원 접근 및 할당
+    - 파일 시스템 관리
+- **프로세스 관리**
     - **프로세스**: 실행 중인 프로그램
     - 일반적으로 하나의 CPU는 한 번에 하나의 프로세스만 실행 가능 
-    ⇒ 프로세스들을 조금씩 번갈아 실행
+      ⇒ 프로세스들을 조금씩 번갈아 실행
     - 여러 프로세스가 동시에 실행되는 환경에서는 **프로세스 동기화**가 필수적, **교착 상태** 해결 필요
-- 자원 접근 및 할당
+- **자원 접근 및 할당**
     - 운영체제가 컴퓨터의 4가지 핵심부품을 어떻게 관리하고 어떤 기능 제공하는지
     - CPU
         - **CPU 스케줄링**
@@ -74,7 +73,7 @@
         - 새로운 프로세스 적재 시마다 어느 주소에 적재할지 결정 필요
     - 입출력장치
         - 인터럽트 서비스 루틴 제공 → 입출력 작업 수행
-- 파일 시스템 관리
+- **파일 시스템 관리**
     - **파일 시스템**: 파일을 열고, 생성하고, 삭제하고, 이 파일들을 한데 묶어 디렉터리(폴더)로 관리하는 시스템
 
 ### c.f. 가상 머신과 이중 모드의 발전
@@ -106,17 +105,11 @@
 ### 확인 문제
 
 - 1번
-    
-    ![image.png](attachment:0318d63e-b214-4838-a9f6-6ef60eb0c42c:image.png)
-    
+    <img width="70%" src="https://github.com/user-attachments/assets/6456bb1d-5d0c-4fc9-94d9-5b41c9e30538" />
     - 정답: 커널
 - 2번
-    
-    ![image.png](attachment:292d3b3d-52be-41c3-83e6-59017577b01a:image.png)
-    
+    <img width="70%" src="https://github.com/user-attachments/assets/b21f9fd3-27af-45a5-aa05-f0d4cd9c48f4" />
     - 정답: 4번
 - 3번
-    
-    ![image.png](attachment:b49b42d0-7bd0-4012-b86c-92820b932dc7:image.png)
-    
+    <img width="70%" src="https://github.com/user-attachments/assets/0d3c4fd0-0d1d-4cc7-8d12-ed0db9ffe66d" />
     - 정답: 3번
