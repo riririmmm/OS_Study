@@ -106,11 +106,17 @@
 ### 확인 문제
 
 - 1번
-    <img width="65%" src="https://github.com/user-attachments/assets/6456bb1d-5d0c-4fc9-94d9-5b41c9e30538" />
+
+    <img width="65%" src="https://github.com/user-attachments/assets/93aad37b-9f75-4bba-b7fc-f6c8d8ab81c7" />\
+  
     - 정답: 커널
 - 2번
-    <img width="65%" src="https://github.com/user-attachments/assets/b21f9fd3-27af-45a5-aa05-f0d4cd9c48f4" />
+
+    <img width="65%" src="https://github.com/user-attachments/assets/f1babf10-74d1-4035-89c7-4d5d54fa8a93" />
+    
     - 정답: 4번
 - 3번
-    <img width="65%" src="https://github.com/user-attachments/assets/0d3c4fd0-0d1d-4cc7-8d12-ed0db9ffe66d" />
+
+    <img width="65%" src="https://github.com/user-attachments/assets/7f0c40dd-e16f-42a6-8fc3-6bbbc8e999bb" />
+    
     - 정답: 3번
