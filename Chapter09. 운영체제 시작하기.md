@@ -54,7 +54,7 @@
     - ② 운영체제 내의 ‘하드 디스크에 데이터를 저장하는 코드’ 살행 → 하드 디스크에 접근 가능
     - ③ 하드 디스크에 접근 종료 → 다시 사용자 모드로 복귀 & 마저 실행
     
-    ![image.png](attachment:cd766ed9-e63d-43a3-b787-55e5e9c10d17:image.png)
+    ![image.png](https://github.com/user-attachments/assets/7555bacc-db0e-488c-9867-c10180193b4a)
     
 - 운영체제의 핵심 서비스
     - [프로세스 관리](https://www.notion.so/Ch09-22a7dbeb5fec8063b621c04ee5d34949?pvs=21)
