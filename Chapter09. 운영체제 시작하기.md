@@ -16,16 +16,17 @@
 
 - 1번
     
-    <img width="70%" src="https://github.com/user-attachments/assets/4a62dfd4-9d5d-442e-90f8-496089186d0c" />
+    <img width="65%" src="https://github.com/user-attachments/assets/4a62dfd4-9d5d-442e-90f8-496089186d0c" />
     
     - 정답: 자원
 - 2번
     
-    <img width="70%" src="https://github.com/user-attachments/assets/385efc61-3a2a-4de1-bf5b-2e7507ac2c9d" />
+    <img width="65%" src="https://github.com/user-attachments/assets/385efc61-3a2a-4de1-bf5b-2e7507ac2c9d" />
 
     
     - 정답: 2번
 
+    
 ## 9-02. 운영체제의 큰 그림
 
 - **커널**
@@ -54,7 +55,7 @@
     - ① 하드 디스크에 데이터를 저장하는 시스템 호출 발생 → 커널 모드로 전환
     - ② 운영체제 내의 ‘하드 디스크에 데이터를 저장하는 코드’ 살행 → 하드 디스크에 접근 가능
     - ③ 하드 디스크에 접근 종료 → 다시 사용자 모드로 복귀 & 마저 실행
-    <img width="70%" src="https://github.com/user-attachments/assets/04af5426-807f-4b2a-8405-bf590201f190" />
+    <img width="65%" src="https://github.com/user-attachments/assets/04af5426-807f-4b2a-8405-bf590201f190" />
 - 운영체제의 핵심 서비스
     - 프로세스 관리
     - 자원 접근 및 할당
@@ -105,11 +106,11 @@
 ### 확인 문제
 
 - 1번
-    <img width="70%" src="https://github.com/user-attachments/assets/6456bb1d-5d0c-4fc9-94d9-5b41c9e30538" />
+    <img width="65%" src="https://github.com/user-attachments/assets/6456bb1d-5d0c-4fc9-94d9-5b41c9e30538" />
     - 정답: 커널
 - 2번
-    <img width="70%" src="https://github.com/user-attachments/assets/b21f9fd3-27af-45a5-aa05-f0d4cd9c48f4" />
+    <img width="65%" src="https://github.com/user-attachments/assets/b21f9fd3-27af-45a5-aa05-f0d4cd9c48f4" />
     - 정답: 4번
 - 3번
-    <img width="70%" src="https://github.com/user-attachments/assets/0d3c4fd0-0d1d-4cc7-8d12-ed0db9ffe66d" />
+    <img width="65%" src="https://github.com/user-attachments/assets/0d3c4fd0-0d1d-4cc7-8d12-ed0db9ffe66d" />
     - 정답: 3번
