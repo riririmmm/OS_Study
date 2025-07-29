@@ -1,4 +1,4 @@
-<img width="1210" height="595" alt="image" src="https://github.com/user-attachments/assets/9dcb08c6-736e-4f75-8985-35998552096c" />## 03-1. 소스 코드와 명령어
+## 03-1. 소스 코드와 명령어
 
 - **고급 언어**: 사람을 위한 언어
     - 대부분의 프로그래밍 언어
