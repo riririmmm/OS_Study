@@ -2,7 +2,7 @@
 
 - **ALU**
     
-    <img width=65% alt="image" src="https://github.com/user-attachments/assets/4f5f2831-a74a-494f-bcfd-a9eea5ddcc4a" />
+    <img width=55% alt="image" src="https://github.com/user-attachments/assets/4f5f2831-a74a-494f-bcfd-a9eea5ddcc4a" />
 
     
     - 레지스터를 통해 **피연산자**를, 제어장치로부터 수행할 연산을 알려주는 **제어 신호** 받아들임
